@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning PHP, Java, CSS
+- 🌱 I’m currently learning PHP, JavaScript, HTML CSS
 - 💞️ I’m looking to collaborate on courses 
 - 📫 How to reach me: cristi1181@yahoo.fr
 
